@@ -1,0 +1,9 @@
+[General]
+Name=Project1
+Project=1
+[Classes]
+Count=4
+Class0="TfrmEscalonador","TForm","Unit1","0","G:\Maxwell Anderson\Meus Projetos\_Delphi\Escalonador\Unit1.pas"
+Class1="TProcesso","","Unit1","0","G:\Maxwell Anderson\Meus Projetos\_Delphi\Escalonador\Unit1.pas"
+Class2="TUcp","","Unit1","0","G:\Maxwell Anderson\Meus Projetos\_Delphi\Escalonador\Unit1.pas"
+Class3="TFilaCriacao","TProcesso","Unit1","61","G:\Maxwell Anderson\Meus Projetos\_Delphi\Escalonador\Unit1.pas"
