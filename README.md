@@ -1,4 +1,7 @@
 # SIMULAPRO
+
+💾 Download em https://github.com/maxwellamaral/escalonador/raw/main/Escalonador.exe
+
 ## Simulador de Escalonamento de Processos de Sistemas Operacionais
 
 O presente trabalho descreve um simulador de Escalonamento de Processos de um sistema operacional multitarefa moderno que foi projetado inicialmente para avaliação acadêmica semestral. Posteriormente, com a evolução do projeto, acabou se tornando uma ferramenta para a ministração de aulas de Gerenciamento de Processadores, contribuindo para formação profissional do corpo discente de forma visível, prática e rápida. Fundamenta-se em estudos teóricos e pesquisas realizadas em sala de aula em um curso de Ciência da Computação, discorrendo inicialmente a uma introdução da definição dos escalonadores e seus critérios de escalonamento. Também descreve os objetivos do projeto e o funcionamento do simulador. Ao fim apresentamos de maneira concisa os resultados obtidos em uma simulação de execução de processos em um escalonamento tipo FIFO (First In, First Out).
